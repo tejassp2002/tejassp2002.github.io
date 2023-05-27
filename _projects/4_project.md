@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Seam Carving for Images
-description: Course Project (Digital Image Processing), Advisor - [Prof. Ajit Rajwade](https://www.cse.iitb.ac.in/~ajitvr/)
+description: Course Project (Digital Image Processing), Advisor - Prof. Ajit Rajwade
 img: assets/img/cs663.gif
 importance: 4
 category: work
