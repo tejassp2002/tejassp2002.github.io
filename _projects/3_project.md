@@ -3,7 +3,6 @@ layout: page
 title: Representation Learning for Reinforcement and Imitation Learning 
 description: Summer Research Project 2021
 img: assets/img/final.gif
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---

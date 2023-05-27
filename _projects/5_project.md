@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Speaker Identification in Adversarial Setting
-description: Course Project (Automatic Speech Recognition), Advisor - <a href="https://www.cse.iitb.ac.in/~pjyothi/">Prof. Preethi Jyothi</a>
+description: Course Project (Automatic Speech Recognition), Advisor - [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/)
 img: assets/img/speaker_indentification.gif
 importance: 5
 category: work

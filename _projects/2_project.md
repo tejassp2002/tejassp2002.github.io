@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Combinatorial Optimization for the Traveling Salesman Problem
-description: Course Project (Optimization for Machine Learning), Advisor - <a href="https://www.cse.iitb.ac.in/~ganesh/">Prof. Ganesh Ramakrishnan</a>
+description: Course Project (Optimization for Machine Learning), Advisor - [Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/)
  
 img: assets/img/tsp.gif
 importance: 2
