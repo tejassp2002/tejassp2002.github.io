@@ -24,8 +24,6 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-I am a Fourth Year Undergraduate in <a href="https://www.ee.iitb.ac.in/">Electrical Engineering</a> at <a href="https://www.iitb.ac.in/">IIT Bombay</a>. 
-
 I am currently interested in the intersection of Economics and Machine Learning. 
 My interests include theoretical aspects of Machine Learning, including Reinforcement Learning and Online Learning. 
 On the practical side, I'm particularly interested in Robotics, including Mars Rover Prototypes and Aerial Robots. 
