@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Our paper FGDQN for average-reward has been accepted at <a href="http://l4dc.seas.upenn.edu/">L4DC 2023</a> with Vivek Borkar and Konstantin Avrachenkov.  
 date: 2023-03-25
 inline: true
 related_posts: false
 ---
-
+Our paper FGDQN for average-reward has been accepted at <a href="http://l4dc.seas.upenn.edu/">L4DC 2023</a> with Vivek Borkar and Konstantin Avrachenkov.  
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
 ***
