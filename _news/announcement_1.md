@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-08
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Converted my engineering programme from B.Tech to Dual Degree with Control and Computing Specialization. Will be graduating in 2024! 
