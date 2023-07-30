@@ -1,0 +1,16 @@
+---
+layout: page
+title: Matching 
+description: Two-Sided Bandit Learning in Fully-Decentralized Matching Markets
+img: assets/img/mm_anim.gif
+importance: 1
+category: work
+---
+
+We proposed a fully decentralized and communication free two-sided bandit learning algorithm for two-sided matching markets. Prior works focused on one-sided learning, where one side of the market knows the preference ranking. Our work considers two-sided learning, where none of the market side knows the preference ranking. They learn the preference using interacting and using feedback from the two-sided reward model. Our algorithm is simple yet elegant and uses the simple tweak of Explore then Commit algorithm. 
+
+Our work requires no structural and communication assumptions made in previous works, making it practical. 
+
+This work got accepted at the The Many Facets of Preference-based Learning ([MFPL](https://sites.google.com/view/mfpl-icml-2023)) Workshop held in the ICML 2023. 
+
+[Paper](assets/pdf/MFPL_Workshop_ICML_Tejas_Avishek.pdf)
