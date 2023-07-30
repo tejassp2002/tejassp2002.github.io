@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>4th Year Undergraduate, Electrical Engineering, IIT Bombay</a>.
+subtitle: <a href='#'>5th Year Undergraduate, Electrical Engineering, IIT Bombay</a>.
 
 profile:
   align: right
