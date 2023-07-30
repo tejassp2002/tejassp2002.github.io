@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Matching 
-description: Two-Sided Bandit Learning in Fully-Decentralized Matching Markets
+title: Two-Sided Bandit Learning in Fully-Decentralized Matching Markets 
+description: Research work with Prof. Avishek Ghosh
 img: assets/img/mm_anim.gif
 importance: 1
 category: work

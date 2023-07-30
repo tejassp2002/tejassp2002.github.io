@@ -3,7 +3,7 @@ layout: page
 title: Average Reward Deep Reinforcement Learning
 description: RnD Project
 img: assets/img/tp.jpg
-importance: 1
+importance: 2
 category: work
 ---
 
