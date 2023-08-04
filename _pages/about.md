@@ -9,8 +9,8 @@ profile:
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>L110B Lagrange Building</p>
-    <p>INRIA Sophia Antipolis</p>
+    <p>Room No. 9060, Hostel 17</p>
+    <p>IIT Bombay, Powai</p>
     <center>
           <a href="mailto:tejaspagare2002@gmail.com">Email</a> |
           <a href="https://www.linkedin.com/in/tejas-pagare/">LinkedIn</a> | 
