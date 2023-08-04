@@ -35,7 +35,7 @@ In the past I was a senior member in the Image Processing Subdivision of the <a 
 Collaborators:
 - <a href="https://www.ee.iitb.ac.in/web/people/faculty/home/borkar">Prof. Vivek S. Borkar</a> (EE, IIT Bombay)
 - <a href="https://www-sop.inria.fr/members/Konstantin.Avratchenkov/me.html">Dr. Konstantin Avrachenkov</a> (INRIA, France)
-<!-- - <a href="https://www.linkedin.com/in/ibtihal-el-m/">Ibtihal El Mimouni</a> (INRIA, SmartProfile) -->
+- <a href="https://www.linkedin.com/in/ibtihal-el-m/">Ibtihal El Mimouni</a> (INRIA, SmartProfile)
 - <a href="https://sites.google.com/view/avishekghosh/home?authuser=1">Prof. Avishek Ghosh</a> (Syscon, IIT Bombay)
 - <a href="https://anirudh9119.github.io/">Anirudh Goyal</a> (DeepMind, MILA)
 - <a href="https://www.microsoft.com/en-us/research/people/vivineet/">Dr. Vibhav Vineet</a> (MSR, Redmond)
