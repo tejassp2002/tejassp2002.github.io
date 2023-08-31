@@ -32,13 +32,13 @@ On the practical side, I'm particularly interested in Robotics, including Mars R
 In the past I was a senior member in the Image Processing Subdivision of the <a href="https://iitbmartian.github.io/">Mars Rover Team</a> at IIT Bombay, where we build Mars Rover prototypes to participate in International Competitions like <a href="https://urc.marssociety.org/">URC</a>, <a href="https://southasia.marssociety.org/irdc/">IRDC</a> and <a href="https://southasia.marssociety.org/indianroverchallenge/">IRC</a>. 
 
 
-Collaborators:
+<!-- Collaborators:
 - <a href="https://www.ee.iitb.ac.in/web/people/faculty/home/borkar">Prof. Vivek S. Borkar</a> (EE, IIT Bombay)
 - <a href="https://www-sop.inria.fr/members/Konstantin.Avratchenkov/me.html">Dr. Konstantin Avrachenkov</a> (INRIA, France)
 - <a href="https://www.linkedin.com/in/ibtihal-el-m/">Ibtihal El Mimouni</a> (INRIA, SmartProfile)
 - <a href="https://sites.google.com/view/avishekghosh/home?authuser=1">Prof. Avishek Ghosh</a> (Syscon, IIT Bombay)
 - <a href="https://anirudh9119.github.io/">Anirudh Goyal</a> (DeepMind, MILA)
-- <a href="https://www.microsoft.com/en-us/research/people/vivineet/">Dr. Vibhav Vineet</a> (MSR, Redmond)
+- <a href="https://www.microsoft.com/en-us/research/people/vivineet/">Dr. Vibhav Vineet</a> (MSR, Redmond) -->
 
 _If you have similar interests, feel free to hit me up with a mail <a href="mailto:tejaspagare2002@gmail.com?subject=Hi">here</a>, I would love to chat._
 
