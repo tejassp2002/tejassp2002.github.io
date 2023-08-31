@@ -1,8 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: CV (Available upon request)
 nav: true
 nav_order: 4
-cv_pdf: Tejas-CV.pdf
+cv_pdf: 
 ---
