@@ -40,6 +40,9 @@ In the past I was a senior member in the Image Processing Subdivision of the <a 
 - <a href="https://anirudh9119.github.io/">Anirudh Goyal</a> (DeepMind, MILA)
 - <a href="https://www.microsoft.com/en-us/research/people/vivineet/">Dr. Vibhav Vineet</a> (MSR, Redmond) -->
 
+CV available upon request. 
+
+
 _If you have similar interests, feel free to hit me up with a mail <a href="mailto:tejaspagare2002@gmail.com?subject=Hi">here</a>, I would love to chat._
 
 
