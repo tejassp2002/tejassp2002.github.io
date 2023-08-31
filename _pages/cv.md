@@ -1,8 +1,9 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV (Available upon request)
+title: CV 
 nav: true
 nav_order: 4
 cv_pdf: 
 ---
+Available upon request
