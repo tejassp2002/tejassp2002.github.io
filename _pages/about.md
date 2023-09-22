@@ -24,7 +24,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-I am currently interested in the intersection of Economics and Machine Learning. 
+I am currently interested in the intersection of Economics and Machine Learning with (current) applications to <a href="https://tejassp2002.github.io/projects/7_project/">Matching Markets</a> and <a href="https://arxiv.org/abs/2208.06536">Double Auctions</a>. 
 My interests include theoretical aspects of Machine Learning, including Reinforcement Learning and Online Learning. 
 On the practical side, I'm particularly interested in Robotics, including Mars Rover Prototypes and Aerial Robots. 
 
