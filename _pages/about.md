@@ -32,6 +32,14 @@ On the practical side, I'm particularly interested in Robotics, including Mars R
 In the past I was a senior member in the Image Processing Subdivision of the <a href="https://iitbmartian.github.io/">Mars Rover Team</a> at IIT Bombay, where we build Mars Rover prototypes to participate in International Competitions like <a href="https://urc.marssociety.org/">URC</a>, <a href="https://southasia.marssociety.org/irdc/">IRDC</a> and <a href="https://southasia.marssociety.org/indianroverchallenge/">IRC</a>. 
 
 
+Current Research Work:
+- Congestion Control with Random Delays (Dual Degree Thesis) with Vivek Borkar and Konstantin Avrachenkov
+- Bandit Learning in Two-sided Matching Markets with Avishek Ghosh
+- Restless Bandits for Recommender Systems with Ibtihal and Konstantin Avrachenkov
+- Physical Understanding of Large Language Models with Vibhav Vineet.
+_Yes! They are very diverse :)_
+
+
 Collaborators:
 - <a href="https://www.ee.iitb.ac.in/web/people/faculty/home/borkar">Prof. Vivek S. Borkar</a> (EE, IIT Bombay)
 - <a href="https://www-sop.inria.fr/members/Konstantin.Avratchenkov/me.html">Dr. Konstantin Avrachenkov</a> (INRIA, France)
@@ -40,10 +48,12 @@ Collaborators:
 - <a href="https://anirudh9119.github.io/">Anirudh Goyal</a> (DeepMind, MILA)
 - <a href="https://www.microsoft.com/en-us/research/people/vivineet/">Dr. Vibhav Vineet</a> (MSR, Redmond)
 
+
 CV available upon request. 
 
-
 _If you have similar interests, feel free to hit me up with a mail <a href="mailto:tejaspagare2002@gmail.com?subject=Hi">here</a>, I would love to chat._
+
+
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
