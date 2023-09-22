@@ -36,7 +36,8 @@ Current Research Work:
 - Congestion Control with Random Delays (Dual Degree Thesis) with Vivek Borkar and Konstantin Avrachenkov
 - Bandit Learning in Two-sided Matching Markets with Avishek Ghosh
 - Restless Bandits for Recommender Systems with Ibtihal and Konstantin Avrachenkov
-- Physical Understanding of Large Language Models with Vibhav Vineet.
+- Physical Understanding of Large Language Models with Vibhav Vineet
+
 _Yes! They are very diverse :)_
 
 
