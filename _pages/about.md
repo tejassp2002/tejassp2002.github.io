@@ -35,24 +35,6 @@ I am fortunate to be advised by <a href="https://www.ee.iitb.ac.in/web/people/fa
 
 
 
-<!-- Current Research Work:
-- Congestion Control with Random Delays (Dual Degree Thesis) with Vivek Borkar and Konstantin Avrachenkov
-- Bandit Learning in Two-sided Matching Markets with Avishek Ghosh
-- Restless Bandits for Recommender Systems with Ibtihal and Konstantin Avrachenkov
-- Physical Understanding of Large Language Models with Vibhav Vineet
-
-_Yes! They are very diverse :)_ -->
-
-
-<!-- Collaborators:
-- <a href="https://www.ee.iitb.ac.in/web/people/faculty/home/borkar">Prof. Vivek S. Borkar</a> (EE, IIT Bombay)
-- <a href="https://www-sop.inria.fr/members/Konstantin.Avratchenkov/me.html">Dr. Konstantin Avrachenkov</a> (INRIA, France)
-- <a href="https://www.linkedin.com/in/ibtihal-el-m/">Ibtihal El Mimouni</a> (INRIA, SmartProfile)
-- <a href="https://sites.google.com/view/avishekghosh/home?authuser=1">Prof. Avishek Ghosh</a> (Syscon, IIT Bombay)
-- <a href="https://anirudh9119.github.io/">Anirudh Goyal</a> (DeepMind, MILA)
-- <a href="https://www.microsoft.com/en-us/research/people/vivineet/">Dr. Vibhav Vineet</a> (MSR, Redmond) -->
-
-
 CV available upon request. 
 
 _If you have similar interests, feel free to hit me up with a mail <a href="mailto:tejaspagare2002@gmail.com?subject=Hi">here</a>, I would love to chat._
