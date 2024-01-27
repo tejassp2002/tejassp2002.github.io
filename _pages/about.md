@@ -9,8 +9,8 @@ profile:
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Room No. 9060, Hostel 17</p>
-    <p>IIT Bombay, Powai</p>
+    <p>Tejas infront of Eiffel Tower</p>
+    <p>picture taken by a grateful stranger</p>
     <center>
           <a href="mailto:tejaspagare2002@gmail.com">Email</a> |
           <a href="https://www.linkedin.com/in/tejas-pagare/">LinkedIn</a> | 
