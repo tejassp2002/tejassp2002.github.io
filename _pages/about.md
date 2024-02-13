@@ -9,13 +9,8 @@ profile:
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Tejas infront of Eiffel Tower</p>
-    <p>picture taken by a grateful stranger</p>
-    <center>
-          <a href="mailto:tejaspagare2002@gmail.com">Email</a> |
-          <a href="https://www.linkedin.com/in/tejas-pagare/">LinkedIn</a> | 
-          <a href="https://github.com/tejassp2002">GitHub</a>
-    </center>
+    <p>Mail: fnamelnameyr[at]gmail[dot]com</p>
+    <p>fname: tejas lname:pagare yr: 2002</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -36,8 +31,6 @@ I am fortunate to be advised by <a href="https://www.ee.iitb.ac.in/web/people/fa
 
 
 CV available upon request. 
-
-_If you have similar interests, feel free to hit me up with a mail <a href="mailto:tejaspagare2002@gmail.com?subject=Hi">here</a>, I would love to chat._
 
 
 
