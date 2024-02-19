@@ -6,7 +6,7 @@ subtitle: 5th Year Undergraduate, Electrical Engineering, IIT Bombay
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: 
   image_circular: false # crops the image to make it circular
   address: >
     <p>Mail: fnamelnameyr[at]gmail[dot]com</p>
