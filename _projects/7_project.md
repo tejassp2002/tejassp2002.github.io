@@ -13,4 +13,4 @@ Our work requires no structural and communication assumptions made in previous w
 
 This work got accepted at the Many Facets of Preference-based Learning ([MFPL](https://sites.google.com/view/mfpl-icml-2023)) Workshop held in the ICML 2023. 
 
-[Paper](https://tejassp2002.github.io/assets/pdf/MFPL_Workshop_ICML_Tejas_Avishek.pdf) | [Presentation](https://iitbacin-my.sharepoint.com/:p:/g/personal/190070067_iitb_ac_in/EcrpQ4t50F5Fngesx7jEjaYB3kAP7ighPHtcFcTrjKd5Pg?e=Zbgw0N)
+[Paper](https://tejassp2002.github.io/assets/pdf/Two-Sided_Matching_Markets_Tejas_Avishek.pdf) | [Presentation](https://iitbacin-my.sharepoint.com/:p:/g/personal/190070067_iitb_ac_in/EcrpQ4t50F5Fngesx7jEjaYB3kAP7ighPHtcFcTrjKd5Pg?e=Zbgw0N)
