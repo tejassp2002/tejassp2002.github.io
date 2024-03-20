@@ -9,8 +9,7 @@ profile:
   image: 
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Mail: fnamelnameyr[at]gmail[dot]com</p>
-    <p>fname: tejas lname: pagare yr: 2002</p>
+    <p>Mail: <code>tejaspagare2002<i class="bi bi-at"></i>gmail.com</code></p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
