@@ -1,11 +1,11 @@
 
 <html>
 <head>
-    <meta http-equiv="refresh" content="0; url=https://tejascmu22.github.io">
+    <meta http-equiv="refresh" content="0; url=https://tejascmu22.github.io/">
     <title>Redirecting...</title>
 </head>
 <body>
-    <p>If you are not redirected automatically, follow this <a href="https://sites.google.com/view/tejas-pagare/">link to new site</a>.</p>
+    <p>If you are not redirected automatically, follow this <a href="https://tejascmu22.github.io/">link to new site</a>.</p>
 </body>
 </html>
 
