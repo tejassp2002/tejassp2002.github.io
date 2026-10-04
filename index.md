@@ -1,7 +1,7 @@
 
 <html>
 <head>
-    <meta http-equiv="refresh" content="0; url=https://sites.google.com/view/tejas-pagare/">
+    <meta http-equiv="refresh" content="0; url=https://tejascmu22.github.io">
     <title>Redirecting...</title>
 </head>
 <body>
